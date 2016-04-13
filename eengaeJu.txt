@@ -1,0 +1,3 @@
+<marcus> dunham: You know how real numbers are constructed from rational
+         numbers by equivalence classes of convergent sequences?
+<dunham> marcus: yes.
