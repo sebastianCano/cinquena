@@ -1,0 +1,3 @@
+If a group of _N persons implements a COBOL compiler, there will be _N-1
+passes.  Someone in the group has to be the manager.
+		-- T. Cheatham
