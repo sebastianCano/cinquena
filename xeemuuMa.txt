@@ -1,0 +1,2 @@
+It's now the GNU Emacs of all terminal emulators.
+		-- Linus Torvalds, regarding the fact that Linux started off as a terminal emulator
