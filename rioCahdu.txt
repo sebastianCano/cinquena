@@ -1,0 +1,3 @@
+Cropp's Law:
+	The amount of work done varies inversly with the time spent in the
+	office.
