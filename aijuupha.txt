@@ -1,0 +1,5 @@
+/*
+ * Buddy system. Hairy. You really aren't expected to understand this
+ *
+ */
+		-- From /usr/src/linux/mm/page_alloc.cA
