@@ -1,0 +1,2 @@
+Finagle's First Law:
+	If an experiment works, something has gone wrong.
