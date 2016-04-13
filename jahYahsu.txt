@@ -1,0 +1,2 @@
+if (instr(buf,sys_errlist[errno]))  /* you don't see this */
+		-- Larry Wall in eval.c from the perl source code
