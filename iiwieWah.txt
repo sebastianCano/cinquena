@@ -1,0 +1,2 @@
+Osborn's Law:
+	Variables won't; constants aren't.
