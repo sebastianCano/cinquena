@@ -1,0 +1,2 @@
+* SynrG notes that the number of configuration questions to answer in
+  sendmail is NON-TRIVIAL
