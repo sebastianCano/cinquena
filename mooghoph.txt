@@ -1,0 +1,2 @@
+snappy repartee:
+	What you'd say if you had another chance.
