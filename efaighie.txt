@@ -1,0 +1,2 @@
+echo "Your stdio isn't very std."
+		-- Larry Wall in Configure from the perl distribution
